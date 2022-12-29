@@ -16,5 +16,6 @@ Because Muzero uses MCTS for self-play, it's very slow (takes about 2min to fini
 <br>
 <img width="369" alt="Screenshot 2022-12-15 at 00 11 09" src="https://user-images.githubusercontent.com/105564219/209868653-0ca6541e-843a-41c2-bb64-c0a7a79b79b8.png">
 <img width="498" alt="Screenshot 2022-12-09 at 12 23 49" src="https://user-images.githubusercontent.com/105564219/209868660-1f725e20-2eea-4f0e-b921-01e91f01602e.png">
+
 Here are two games in which Muzero plays against a random player.
 As you can see, sometimes it does makes good moves to connect the two sides. Most of the time it makes waste moves. However, this shows that our Muzero agent surely is learning. It requires much higher computation performance and longer training time.
